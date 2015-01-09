@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Função que transforma o número de meses passado no parâmetro para a quantidade em anos e meses
  * Exemplo: De "18" meses para "1 ano e 6 meses"
@@ -43,3 +45,5 @@ function monthsToYears($quantityMonths){
 }
 
 monthsToYears(18);
+
+?>
