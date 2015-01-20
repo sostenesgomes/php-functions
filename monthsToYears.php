@@ -44,6 +44,6 @@ function monthsToYears($quantityMonths){
     return $output;
 }
 
-monthsToYears(18);
+echo monthsToYears(18);
 
 ?>
